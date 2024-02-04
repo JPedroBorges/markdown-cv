@@ -2,8 +2,8 @@
 layout: cv
 title: João Borges's CV
 ---
-## Work Experience
 
+## Work Experience
 
 ### Blip.pt
 __Backend Developer__
@@ -49,9 +49,7 @@ Java · Spring Boot · MySQL · MongoDB
 __Fullstack Developer__
 
 `06/2017 - 08/2019`
-Custom-made software solutions to meet customer needs in SAP systems. Contributed to third-party software integration with non SAP technologies using different communication protocols. 
-
-Participated in all development phases starting with requirement gathering, prototyping, solution implementation and tests. Had direct contact with clients to provide technical support for SAP integrations.
+Custom-made software solutions to meet customer needs in SAP systems. Contributed to third-party software integration with non SAP technologies using different communication protocols.  Participated in all development phases starting with requirement gathering, prototyping, solution implementation and tests. Had direct contact with clients to provide technical support for SAP integrations.
 
 Responsible for Funchal branch team, ensuring task delegation and timely deliveries. Actively trained new joiners for SAP development and internal tools.
 
@@ -76,8 +74,8 @@ Omnichannel Widget | Built home banking widgets with MEAN stack.
 ### University of Madeira
 Software Engineering
 
-`09/2016 – 2020`
-__POS-GRADUATION__
+`09/2018 – 01/2020`
+__POST-GRADUATION__
 
 ### University of Maribor
 Software Engineering
